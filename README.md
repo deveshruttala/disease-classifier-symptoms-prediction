@@ -1,5 +1,5 @@
 # Disease-classifier and symptoms-prediction
-This project completely  consists of me creating notebook on disease predictions, symptoms analysis, disease classifications and other health related ml tools<br>
+This project completely  consists of me creating notebook on disease predictions, symptoms analysis, disease classifications <br>
 This documentation outlines the implementation of disease prediction from symptoms using various ML models for heart disease, Alzheimer's, and other diseases. Employing SVM, KNN, Naive Bayes, Decision Tree, Logistic Regression, and more, our approach aims to enhance predictive accuracy, aiding early diagnosis and effective healthcare interventions.
 
 
@@ -16,7 +16,7 @@ This documentation outlines the implementation of disease prediction from sympto
 
 ### Requirements
 1. Python 3
-2. scikit-learn
+2. sci-kit-learn
 3. matplotlib
 4. seaborn
 
@@ -29,7 +29,7 @@ This documentation outlines the implementation of disease prediction from sympto
   * The codes which were given to diseases and symptoms were removed as they were irrelevant for our task
   * A cumulative list of all symptoms was made 
   * Each symptom was assigned a Boolean value of 0 or 1 for each disease, according to whether the symptom occurs with the disease or not
-- `Data visualization` : Built correlation heatmaps for relationship between the symptoms and relationship between the diseases
+- `Data visualization` : Built correlation heatmaps for the relationship between the symptoms and relationship between the diseases
 - `Model Building` : Used 2 algorithms for this dataset and compared the results to evaluate which one yielded better results: *Multinomial Naive Bayes Classifier* and then  used KNN and SVM to check our  accuracy 
 <br><br>
 
@@ -41,7 +41,7 @@ This documentation outlines the implementation of disease prediction from sympto
 
 <br><br>
 
-* For trying out git clone this project and the notebooks are self explanatory  
+* For trying out git clone this project and the notebooks are self-explanatory  
 
 ```
 git clone https://github.com/deveshruttala/disease-classifier-symptoms-prediction.git
