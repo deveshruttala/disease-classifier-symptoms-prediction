@@ -50,7 +50,7 @@ git clone https://github.com/deveshruttala/disease-classifier-symptoms-predictio
 
 #### Conclusion and credits
 
-In conclusion, the implementation of disease prediction using diverse machine learning models, including SVM, KNN, Naive Bayes, Decision Tree, Logistic Regression, and more, exhibits promising results. These models contribute to enhanced healthcare decision-making.And I would like to extend my  for this report go to the dedicated efforts of the research member and who guided me in making this project 
+In conclusion, the implementation of disease prediction using diverse machine learning models, including SVM, KNN, Naive Bayes, Decision Tree, Logistic Regression, and more, exhibits promising results. These models contribute to enhanced healthcare decision-making.And I would like to extend my gratitude for this report go to the dedicated efforts of the research member and who guided me in making this project 
 
 
 
