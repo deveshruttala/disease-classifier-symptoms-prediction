@@ -5,7 +5,7 @@ This documentation outlines the implementation of disease prediction from sympto
 
 <br><br>
 <p align="center">
- <img height=200px src="readme assets/disease prediction asset.png" alt="Disease-Prediction">
+ <img height=200px src="readme assets/disease prediction asset.webp" alt="Disease-Prediction">
 </p>
 
 <h1 align="center">Disease Prediction from Symptoms , heart disease classification and prediction </h1>
