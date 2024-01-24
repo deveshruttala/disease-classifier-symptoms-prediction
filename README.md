@@ -19,7 +19,8 @@ This documentation outlines the implementation of disease prediction from sympto
 2. sci-kit-learn
 3. matplotlib
 4. seaborn
-
+5. numpy
+6. pandas
 
 ### Process
 
